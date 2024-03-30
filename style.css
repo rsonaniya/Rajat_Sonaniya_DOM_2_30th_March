@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+table {
+  width: 100%;
+}
+.img {
+  height: 30px;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-green {
+  color: green;
+}
+table {
+  border-collapse: collapse;
+}
+tr {
+  border-bottom: 1px solid white;
+  padding: 20px;
+  text-align: center;
+}
+
+td {
+  padding: 10px;
+}
+
+.td-first {
+  display: flex;
+
+  align-items: center;
+}
